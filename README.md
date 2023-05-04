@@ -1,5 +1,5 @@
 ### Верстка сайта прюта для собак
-### Dog shelter landing page
+### Shelter dogs landing page
 
 <hr>
 
