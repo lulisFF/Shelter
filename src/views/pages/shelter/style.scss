@@ -1,0 +1,7 @@
+@import '@styles/base/_normalize.scss';
+@import '@styles/base/_reset.scss';
+@import '@styles/abstracts/_variables.scss';
+
+html{
+  background-color: $color-primary-light;
+}
