@@ -1,10 +1,10 @@
 ### Верстка сайта прюта для собак
-### Dog shelter landing page
+### Shelter dogs landing page
 
 <hr>
 
 #### GitHub io pages
-https://lulisff.github.io/shelter/shelter
+https://lulisff.github.io/Shelter/dist/
 
 
 <hr>
